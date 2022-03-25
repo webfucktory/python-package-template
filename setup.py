@@ -12,14 +12,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="",
+    name="package-name",
     version=version,
     author="webfucktory",
     author_email="root@webfucktory.com",
-    description="",
+    description="Package description",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/webfucktory/",
+    url="https://github.com/webfucktory/package-name",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
