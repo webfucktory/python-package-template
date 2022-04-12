@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-version = __import__('jsonabler').__version__
+version = __import__('package_name').__version__
 
 with open('requirements.txt') as f:
     requirements = [
