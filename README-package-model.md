@@ -1,5 +1,7 @@
 # package-name
 
+[![Lint & Test](https://github.com/webfucktory/package-name/actions/workflows/lint-test.yml/badge.svg)](https://github.com/webfucktory/package-name/actions/workflows/lint-test.yml)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
 aliqua.
 
