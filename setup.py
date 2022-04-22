@@ -33,7 +33,7 @@ setup(
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     url="https://github.com/webfucktory/package-name",
-    packages=find_packages(),
+    packages=['package_name'],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
