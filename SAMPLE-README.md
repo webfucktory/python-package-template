@@ -1,4 +1,4 @@
-[![Lint & Test](https://github.com/webfucktory/package-name/actions/workflows/lint-test.yml/badge.svg)](https://github.com/webfucktory/package-name/actions/workflows/lint-test.yml)
+[![Lint & Test](https://github.com/webfucktory/package-name/actions/workflows/lint-and-test.yml/badge.svg)](https://github.com/webfucktory/package-name/actions/workflows/lint-and-test.yml)
 [![PyPI version](https://badge.fury.io/py/package-name.svg)](https://pypi.org/project/package-name)
 [![Downloads count](https://img.shields.io/pypi/dm/package-name)](https://pypistats.org/packages/package-name)
 
@@ -24,6 +24,20 @@ pip install package-name
 ### Item 1
 
 ### Item 2
+
+## Development
+
+### Run Tests
+
+```shell script
+./test
+```
+
+### Style Check
+
+```shell script
+./lint
+```
 
 ## License
 
